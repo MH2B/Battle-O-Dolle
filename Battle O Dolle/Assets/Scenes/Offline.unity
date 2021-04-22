@@ -950,7 +950,20 @@ MonoBehaviour:
   playerSpawnMethod: 0
   spawnPrefabs:
   - {fileID: 7663776590551569836, guid: 04c7a10ac16783c45aeef48593664d23, type: 3}
+  - {fileID: 4634058713001305548, guid: d18cf51496e0cda4fb85d3afd77848ff, type: 3}
   - {fileID: 1872921544188062175, guid: a346639d35219dc4b80c7501042cd7a9, type: 3}
+  - {fileID: 4347746118322905974, guid: 0dbed6fb36ad3bd40b4402cb4dab4497, type: 3}
+  - {fileID: 3237244380269147879, guid: e0c39ad13916e9243819454fb28a3485, type: 3}
+  - {fileID: 4441808100316535002, guid: 3f09b0ad934a57e4abeb0d94dd572234, type: 3}
+  - {fileID: 5921477643208100571, guid: 57860f95e5594f045bb329d0ce078ce9, type: 3}
+  - {fileID: 914554963199866239, guid: ccc9e06fa3ad50244b196432ab34b32a, type: 3}
+  - {fileID: 597208273393998498, guid: 32d5c0656bbc7a741ae71cfa41fc1a73, type: 3}
+  - {fileID: 382279454004898316, guid: 3620c1f10c4535f419a0c2f8fab81d53, type: 3}
+  - {fileID: 49259521290988709, guid: d6a90257d5cff3946acfddcc0ecd878d, type: 3}
+  - {fileID: 5320265246077792082, guid: 835a494537901d54099ff939976b78b8, type: 3}
+  - {fileID: 4754768287020714386, guid: b3a9833b3b560e140bb3ff265e2526aa, type: 3}
+  - {fileID: 504363410580763179, guid: 7639f1e1a3c70114c8c7211d2a23228f, type: 3}
+  - {fileID: 8799919390982803465, guid: d70542ca15c82ea45a2fc706f8be80b7, type: 3}
 --- !u!114 &1247825173
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -3,7 +3,18 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Fov
+  - UI
+  - Vcam
+  - BlueTeam
+  - RedTeam
+  - Interactable
+  - BuyZone
+  - Weapon
+  - Environment
+  - DeadBody
+  - ObjectiveReachPoint
   layers:
   - Default
   - TransparentFX
@@ -13,17 +24,17 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - BG
+  - Mask
+  - Player
+  - Other
+  - Wall
+  - Prop
+  - Particle
+  - Interactable
+  - Gun
+  - Level
+  - Commrad
   - 
   - 
   - 

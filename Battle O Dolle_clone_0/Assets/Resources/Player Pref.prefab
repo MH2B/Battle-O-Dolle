@@ -81,6 +81,7 @@ MonoBehaviour:
   syncInterval: 0.1
   gameLevelScene: Assets/Scenes/GamePlay.unity
   matchID: 
+  matchPlayerSize: 0
   playerIndex: 0
   isInBlueTeam: 0
   isHost: 0
@@ -108,5 +109,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   syncMode: 0
   syncInterval: 0.1
-  playerPrefab: {fileID: 1872921544188062175, guid: a346639d35219dc4b80c7501042cd7a9,
-    type: 3}
+  playersPrefabs:
+  - {fileID: 1872921544188062175, guid: a346639d35219dc4b80c7501042cd7a9, type: 3}

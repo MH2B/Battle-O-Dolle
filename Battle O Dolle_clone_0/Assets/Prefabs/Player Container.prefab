@@ -278,7 +278,7 @@ MonoBehaviour:
   playerName: 
   heroName: 
   herosSprites:
-  - {fileID: 21300000, guid: 8bfbd7f25b89d2243af940b6c38d5cc2, type: 3}
-  - {fileID: 21300000, guid: af33932b363f9ed458e9e299f496d083, type: 3}
-  - {fileID: 21300000, guid: a902a0a4bdb1cfd4dab0198615bdae47, type: 3}
-  - {fileID: 21300000, guid: eb00ddb9a7cefdd4d9e3233d3ed0ca76, type: 3}
+  - {fileID: 6683401136756766118, guid: ee021ad25636d8241836a4f45a392584, type: 3}
+  - {fileID: 1081333420721290060, guid: ee021ad25636d8241836a4f45a392584, type: 3}
+  - {fileID: -5497589243268057204, guid: ee021ad25636d8241836a4f45a392584, type: 3}
+  - {fileID: -7842432313445657520, guid: ee021ad25636d8241836a4f45a392584, type: 3}
